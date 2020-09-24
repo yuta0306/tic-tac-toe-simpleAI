@@ -1,4 +1,7 @@
 # tic-tac-toe-simpleAI
+
+![sample](./img/sample.png)
+
 Tic Tac Toe with simple AI
 
 Brute force is used in this program.
